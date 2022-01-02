@@ -1,3 +1,1 @@
-# Job-recommendation-system
-
-https://salarypredic-g7.herokuapp.com/
+# 2021-12-job-recommandation
